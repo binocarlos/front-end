@@ -1,1 +1,9 @@
 /** Your theme modifications here **/
+
+div#content, div#footer, div#navbar {
+  background-color: #40ff60 !important;
+}
+
+div#navbar {
+  background-color: #ff2bf8 !important;
+}
